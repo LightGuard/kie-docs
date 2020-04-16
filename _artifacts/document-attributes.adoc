@@ -50,8 +50,10 @@ ifdef::KOGITO-COMM[]
 include::document-attributes-kogito-comm.adoc[]
 endif::KOGITO-COMM[]
 
+////
 //For source includes
 :kogito-dir: kogito-docs/src/main/asciidoc
+////
 
 // Product and component names
 :PRODUCT_PAM: Red Hat Process Automation Manager
