@@ -22,19 +22,19 @@ As a developer of business processes and decisions, you can use {PRODUCT} busine
 * Apache Maven 3.6.2 or later is installed.
 
 // Modules - concepts, procedures, refs, etc.
-include::{kogito-dir}/creating-running/con-kogito-automation.adoc[leveloffset=+1]
-include::{kogito-dir}/creating-running/con-kogito-quarkus-springboot.adoc[leveloffset=+2]
-include::{kogito-dir}/creating-running/ref-kogito-app-examples.adoc[leveloffset=+1]
-include::{kogito-dir}/creating-running/proc-kogito-app-examples-running.adoc[leveloffset=+2]
-include::{kogito-dir}/creating-running/con-kogito-modelers.adoc[leveloffset=+1]
-include::{kogito-dir}/creating-running/proc-kogito-modelers.adoc[leveloffset=+2]
-include::{kogito-dir}/creating-running/proc-kogito-vscode-extension.adoc[leveloffset=+2]
-include::{kogito-dir}/creating-running/proc-kogito-creating-project.adoc[leveloffset=+1]
-include::{kogito-dir}/creating-running/proc-kogito-designing-app.adoc[leveloffset=+1]
-include::{kogito-dir}/creating-running/proc-kogito-designing-app-rule-units.adoc[leveloffset=+2]
-include::{kogito-dir}/creating-running/proc-kogito-running-app.adoc[leveloffset=+1]
-include::{kogito-dir}/creating-running/proc-kogito-interacting-app.adoc[leveloffset=+1]
-include::{kogito-dir}/creating-running/ref-kogito-glossary.adoc[leveloffset=+1]
+include::modules/creating-running/con-kogito-automation.adoc[leveloffset=+1]
+include::modules/creating-running/con-kogito-quarkus-springboot.adoc[leveloffset=+2]
+include::modules/creating-running/ref-kogito-app-examples.adoc[leveloffset=+1]
+include::modules/creating-running/proc-kogito-app-examples-running.adoc[leveloffset=+2]
+include::modules/creating-running/con-kogito-modelers.adoc[leveloffset=+1]
+include::modules/creating-running/proc-kogito-modelers.adoc[leveloffset=+2]
+include::modules/creating-running/proc-kogito-vscode-extension.adoc[leveloffset=+2]
+include::modules/creating-running/proc-kogito-creating-project.adoc[leveloffset=+1]
+include::modules/creating-running/proc-kogito-designing-app.adoc[leveloffset=+1]
+include::modules/creating-running/proc-kogito-designing-app-rule-units.adoc[leveloffset=+2]
+include::modules/creating-running/proc-kogito-running-app.adoc[leveloffset=+1]
+include::modules/creating-running/proc-kogito-interacting-app.adoc[leveloffset=+1]
+include::modules/creating-running/ref-kogito-glossary.adoc[leveloffset=+1]
 
 == Additional resources
 * {URL_DEPLOYING_ON_OPENSHIFT}[_{DEPLOYING_ON_OPENSHIFT}_]

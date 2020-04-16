@@ -22,19 +22,19 @@ As a developer of business processes and decisions, you can deploy {PRODUCT} ser
 * The OpenShift project for the deployment is created.
 
 // Modules - concepts, procedures, refs, etc.
-include::{kogito-dir}/openshift/con-kogito-on-ocp.adoc[leveloffset=+1]
-include::{kogito-dir}/openshift/proc-kogito-deploying-on-ocp-console.adoc[leveloffset=+1]
-include::{kogito-dir}/openshift/proc-kogito-deploying-on-ocp-kogito-cli.adoc[leveloffset=+1]
-include::{kogito-dir}/openshift/con-kogito-travel-agency.adoc[leveloffset=+1]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-clone-repo.adoc[leveloffset=+2]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-configure-ocp.adoc[leveloffset=+2]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-create-ocp-project.adoc[leveloffset=+2]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-enable-persistence.adoc[leveloffset=+2]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-enable-messaging.adoc[leveloffset=+2]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-enable-data-index.adoc[leveloffset=+2]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-create-services.adoc[leveloffset=+2]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-deploy-binary.adoc[leveloffset=+2]
-include::{kogito-dir}/openshift/proc-kogito-travel-agency-interacting.adoc[leveloffset=+2]
+include::modules/openshift/con-kogito-on-ocp.adoc[leveloffset=+1]
+include::modules/openshift/proc-kogito-deploying-on-ocp-console.adoc[leveloffset=+1]
+include::modules/openshift/proc-kogito-deploying-on-ocp-kogito-cli.adoc[leveloffset=+1]
+include::modules/openshift/con-kogito-travel-agency.adoc[leveloffset=+1]
+include::modules/openshift/proc-kogito-travel-agency-clone-repo.adoc[leveloffset=+2]
+include::modules/openshift/proc-kogito-travel-agency-configure-ocp.adoc[leveloffset=+2]
+include::modules/openshift/proc-kogito-travel-agency-create-ocp-project.adoc[leveloffset=+2]
+include::modules/openshift/proc-kogito-travel-agency-enable-persistence.adoc[leveloffset=+2]
+include::modules/openshift/proc-kogito-travel-agency-enable-messaging.adoc[leveloffset=+2]
+include::modules/openshift/proc-kogito-travel-agency-enable-data-index.adoc[leveloffset=+2]
+include::modules/openshift/proc-kogito-travel-agency-create-services.adoc[leveloffset=+2]
+include::modules/openshift/proc-kogito-travel-agency-deploy-binary.adoc[leveloffset=+2]
+include::modules/openshift/proc-kogito-travel-agency-interacting.adoc[leveloffset=+2]
 
 == Additional resources
 * {URL_CREATING_RUNNING}[_{CREATING_RUNNING}_]

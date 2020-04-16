@@ -18,22 +18,22 @@ As a developer of business processes and decisions, you can configure {PRODUCT} 
 ====
 
 // Modules - concepts, procedures, refs, etc.
-include::{kogito-dir}/configuration/con-kogito-supporting-services-and-configuration.adoc[leveloffset=+1]
-include::{kogito-dir}/configuration/ref-kogito-runtime-properties.adoc[leveloffset=+1]
-include::{kogito-dir}/configuration/con-kogito-runtime-events.adoc[leveloffset=+1]
-include::{kogito-dir}/configuration/proc-messaging-enabling.adoc[leveloffset=+2]
-include::{kogito-dir}/configuration/proc-event-listeners-registering.adoc[leveloffset=+2]
-include::{kogito-dir}/configuration/proc-prometheus-metrics-monitoring.adoc[leveloffset=+2]
-include::{kogito-dir}/configuration/con-persistence.adoc[leveloffset=+1]
-include::{kogito-dir}/configuration/proc-persistence-enabling.adoc[leveloffset=+2]
-include::{kogito-dir}/configuration/con-data-index-service.adoc[leveloffset=+1]
-include::{kogito-dir}/configuration/proc-data-index-service-using.adoc[leveloffset=+2]
-include::{kogito-dir}/configuration/ref-data-index-service-queries.adoc[leveloffset=+2]
-include::{kogito-dir}/configuration/con-jobs-service.adoc[leveloffset=+1]
-include::{kogito-dir}/configuration/proc-jobs-service-using.adoc[leveloffset=+2]
-include::{kogito-dir}/configuration/proc-jobs-service-persistence.adoc[leveloffset=+2]
-include::{kogito-dir}/configuration/proc-jobs-service-messaging.adoc[leveloffset=+2]
-include::{kogito-dir}/bpmn/con-bpmn-process-management-addon.adoc[leveloffset=+1]
+include::modules/configuration/con-kogito-supporting-services-and-configuration.adoc[leveloffset=+1]
+include::modules/configuration/ref-kogito-runtime-properties.adoc[leveloffset=+1]
+include::modules/configuration/con-kogito-runtime-events.adoc[leveloffset=+1]
+include::modules/configuration/proc-messaging-enabling.adoc[leveloffset=+2]
+include::modules/configuration/proc-event-listeners-registering.adoc[leveloffset=+2]
+include::modules/configuration/proc-prometheus-metrics-monitoring.adoc[leveloffset=+2]
+include::modules/configuration/con-persistence.adoc[leveloffset=+1]
+include::modules/configuration/proc-persistence-enabling.adoc[leveloffset=+2]
+include::modules/configuration/con-data-index-service.adoc[leveloffset=+1]
+include::modules/configuration/proc-data-index-service-using.adoc[leveloffset=+2]
+include::modules/configuration/ref-data-index-service-queries.adoc[leveloffset=+2]
+include::modules/configuration/con-jobs-service.adoc[leveloffset=+1]
+include::modules/configuration/proc-jobs-service-using.adoc[leveloffset=+2]
+include::modules/configuration/proc-jobs-service-persistence.adoc[leveloffset=+2]
+include::modules/configuration/proc-jobs-service-messaging.adoc[leveloffset=+2]
+include::modules/bpmn/con-bpmn-process-management-addon.adoc[leveloffset=+1]
 
 
 == Additional resources
